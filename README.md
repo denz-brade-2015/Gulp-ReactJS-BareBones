@@ -1,7 +1,7 @@
 # Gulp-ReactJS-BareBones
 ## A Barebones Template Using React JS &amp; Gulp in unison - With a few example files 
 
-![alt text] (http://sc5.io/blog/wp-content/uploads/2014/06/react.png =150x)
+![alt text] (http://sc5.io/blog/wp-content/uploads/2014/06/react.png)
 
 ### Getting Started 
 
