@@ -3,13 +3,16 @@
 
 ### Getting Started 
 
-* Make sure Node JS is on your machine download latest **stable**version here:
-(https://nodejs.org/en/)
+* Make sure Node JS is on your machine download latest **stable** version here:
+
+https://nodejs.org/en/
 
 * Now to Install latest version of NPM Globally
+
 ` npm install npm -g ` or ` sudo npm install npm -g `
 
 * Install Gulp globally
+
 ` npm install --g gulp ` or ` sudo npm install --g gulp `
 
 
