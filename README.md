@@ -2,7 +2,7 @@
 ## A Barebones Template Using React JS &amp; Gulp in unison - With a few example files 
 
 <img src ="http://sc5.io/blog/wp-content/uploads/2014/06/react.png" width="100px">
-<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="100px">
+<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" width="50px">
 
 ### Getting Started 
 
