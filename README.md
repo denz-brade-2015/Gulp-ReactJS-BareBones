@@ -8,11 +8,11 @@ https://nodejs.org/en/
 
 * Now to Install latest version of NPM Globally
 
-` npm install npm -g ` or ` sudo npm install npm -g `
+&nbsp;&nbsp; ` npm install npm -g ` or ` sudo npm install npm -g `
 
 * Install Gulp globally
 
-` npm install --g gulp ` or ` sudo npm install --g gulp `
+&nbsp;&nbsp; ` npm install --g gulp ` or ` sudo npm install --g gulp `
 
 
 ### Now Lets set up the project 
